@@ -1,2 +1,0 @@
-# PROfutures
-Educational Site
